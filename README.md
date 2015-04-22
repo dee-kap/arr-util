@@ -1,0 +1,2 @@
+# flatten
+Flattens an array
