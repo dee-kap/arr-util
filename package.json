@@ -4,13 +4,16 @@
   "description": "Flattens an array",
   "main": "index.js",
   "scripts": {
-    "test": "test.js"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/deepak-kapoor/flatten.git"
   },
-  "author": "Deepak Kapoor",
+  "author": {
+    "name": "Deepak Kapoor",
+    "email": "kapoordeepak@gmail.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/deepak-kapoor/flatten/issues"
