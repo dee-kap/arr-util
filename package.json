@@ -1,0 +1,19 @@
+{
+  "name": "flatten",
+  "version": "1.0.0",
+  "description": "Flattens an array",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepak-kapoor/flatten.git"
+  },
+  "author": "Deepak Kapoor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deepak-kapoor/flatten/issues"
+  },
+  "homepage": "https://github.com/deepak-kapoor/flatten#readme"
+}
