@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deepak-kapoor/flatten.git"
+    "url": "git+https://github.com/deepak-kapoor/arr-flatten.git"
   },
   "author": {
     "name": "Deepak Kapoor",
@@ -16,7 +16,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/deepak-kapoor/flatten/issues"
+    "url": "https://github.com/deepak-kapoor/arr-flatten/issues"
   },
-  "homepage": "https://github.com/deepak-kapoor/flatten#readme"
+  "homepage": "https://github.com/deepak-kapoor/arr-flatten#readme"
 }
