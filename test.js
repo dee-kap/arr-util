@@ -1,5 +1,7 @@
 var assert = require('assert');
-var util = require('util');
-var flatten = require('./');
+var arr = require('./');
 
-assert.equal(1==1, false);
+assert.deepEqual(arr.flatten(['a', 'b', 'c', 'd']), ['a', 'b', 'c', 'd']);
+assert.deepEqual(arr.flatten(['a', ['b'], 'c', 'd']), ['a', 'b', 'c', 'd']);
+assert.deepEqual(arr.flatten(['a', ['b'], ['c', 'd']]), ['a', 'b', 'c', 'd']);
+assert.deepEqual(arr.flatten(['a', ['b'], ['c', 'd'], []]), ['a', 'b', 'c', 'd']);

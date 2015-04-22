@@ -1,5 +1,5 @@
 {
-  "name": "flatten",
+  "name": "arr-flatten",
   "version": "1.0.0",
   "description": "Flattens an array",
   "main": "index.js",
