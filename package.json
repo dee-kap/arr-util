@@ -1,14 +1,14 @@
 {
-  "name": "arr-flatten",
+  "name": "arr-util",
   "version": "1.0.0",
-  "description": "Flattens an array",
+  "description": "Bunch of utilities for arrays",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deepak-kapoor/arr-flatten.git"
+    "url": "git+https://github.com/deepak-kapoor/arr-util.git"
   },
   "author": {
     "name": "Deepak Kapoor",
@@ -16,7 +16,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/deepak-kapoor/arr-flatten/issues"
+    "url": "https://github.com/deepak-kapoor/arr-util/issues"
   },
-  "homepage": "https://github.com/deepak-kapoor/arr-flatten#readme"
+  "homepage": "https://github.com/deepak-kapoor/arr-util#readme"
 }
