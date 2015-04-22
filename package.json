@@ -1,7 +1,7 @@
 {
   "name": "arr-util",
   "version": "1.0.0",
-  "description": "Bunch of utilities for arrays",
+  "description": "Utilities for arrays",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
